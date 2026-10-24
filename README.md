@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🧬 Plate Analysis with the Generalized Unified Formulation (GUF)
+# Plate Analysis with the Generalized Unified Formulation (GUF)
 
 **FEM and Navier solutions based on PVD and RMVT, in MATLAB**
 
@@ -53,12 +53,6 @@ All main scripts are MATLAB **Live Scripts** (`.mlx`). The supporting functions 
 | [`main_GUF_PVD_FEM_ort_lam_demasi1.mlx`](main_GUF_PVD_FEM_ort_lam_demasi1.mlx) | FEM with GUF, PVD, laminated orthotropic plate, "demasi1" case |
 | `main_GUF_PVD_FEM_timoshenko_iso_sin*.mlx` | FEM, PVD, Timoshenko-type model, isotropic plate, sinusoidal load |
 | `main_GUF_PVD_FEM_timoshenko_iso_un*.mlx` | FEM, PVD, Timoshenko-type model, isotropic plate, uniform load |
-
-### 🛠️ Supporting functions
-
-| Folder | Description |
-|---|---|
-| [`Functions/`](Functions/) | Functions used by the main scripts |
 
 <!-- Replace the two file names with a `*` above by the full names of the files, and add links to them -->
 
