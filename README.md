@@ -105,7 +105,7 @@ If you use these codes in your work, please cite the thesis:
   title  = {Comparação de modelos de placa para a simulação de laminados compósitos},
   school = {University of Campinas (UNICAMP)},
   year   = {2020},
-  url    = {[THESIS LINK](https://repositorio.unicamp.br/acervo/detalhe/1161765?guid=1790121606930&returnUrl=%2Fresultado%2Flistar%3Fguid%3D1790121606930%26quantidadePaginas%3D1%26codigoRegistro%3D1161765%231161765&i=17)}
+  url    = {https://repositorio.unicamp.br/acervo/detalhe/1161765?guid=1790121606930&returnUrl=%2Fresultado%2Flistar%3Fguid%3D1790121606930%26quantidadePaginas%3D1%26codigoRegistro%3D1161765%231161765&i=17}
 }
 ```
 
